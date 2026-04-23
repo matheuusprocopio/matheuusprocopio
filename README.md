@@ -2,7 +2,7 @@
 
 `Java & Spring Boot developer building my first portfolio projects. Looking for my first internship opportunity.`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuspduarte1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuspduarte1/)
 
 ---
 
