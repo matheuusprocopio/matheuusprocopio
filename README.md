@@ -21,7 +21,6 @@ I'm building my career in tech and currently learning Java, JavaScript, and Reac
 
 ## GitHub Stats
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuusprocopio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&locale=en" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuusprocopio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=en&custom_title=Top%20Languages" />
 </p>
  
