@@ -3,7 +3,6 @@
 `Java & Spring Boot developer building my first portfolio projects. Looking for my first internship opportunity.`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuspduarte1/)
-![Visitors](https://komarev.com/ghpvc/?username=matheuusprocopio&color=0A66C2&style=for-the-badge)
 
 ---
 
@@ -25,18 +24,8 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuusprocopio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&locale=pt_BR&custom_title=Linguagens%20mais%20usadas" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://streak-stats.demolab.com?user=matheuusprocopio&theme=dark&hide_border=false&locale=pt_BR" />
-</p>
-
----
-
-## 🏆 Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=matheuusprocopio&theme=darkhub&no-frame=true)
+  ![matheuusprocopio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuusprocopio&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
+  ![matheuusprocopio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheuusprocopio&theme=vue-dark&hide_border=false)
 
 ---
 
