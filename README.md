@@ -1,6 +1,9 @@
 # Matheus Procopio
 
-`Java & Spring Boot developer building my first portfolio projects. Looking for my first internship opportunity.`
+Computer Science Student at PUC Minas
+
+• Currently working on personal projects to strengthen my portfolio.
+• Focusing on Java Back-End development with Spring Boot and other related technologies.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheuspduarte1/)
 
