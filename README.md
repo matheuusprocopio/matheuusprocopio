@@ -36,7 +36,7 @@
 
 ## 🏆 Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=matheuusprocopio&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=6)
+![Trophies](https://github-profile-trophy.vercel.app/?username=matheuusprocopio&theme=darkhub&no-frame=true)
 
 ---
 
