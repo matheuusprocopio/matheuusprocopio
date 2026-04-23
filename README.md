@@ -18,7 +18,7 @@
   <img alt="CSS" title="CSS" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /> &nbsp;
   <img alt="MongoDB" title="MongoDB" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /> &nbsp;
   <img alt="Figma" title="Figma" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> &nbsp;
-  <img alt="Notion" title="Notion" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" />
+  <img alt="Notion" title="Notion" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" /> &nbsp;
   <img alt="C" title="C" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> &nbsp;
   <img alt="C++" title="C++" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </p>
