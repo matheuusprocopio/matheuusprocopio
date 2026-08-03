@@ -29,7 +29,6 @@ Computer Science Student at PUC Minas
 ---
 
 ## 📊 GitHub Stats
-  ![matheuusprocopio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matheuusprocopio&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
   ![matheuusprocopio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=matheuusprocopio&theme=vue-dark&hide_border=false)
 
 ---
